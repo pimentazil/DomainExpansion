@@ -1,0 +1,6 @@
+@DomainExpansion_HostAddress = http://localhost:5242
+
+GET {{DomainExpansion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
